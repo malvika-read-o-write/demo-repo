@@ -1,7 +1,6 @@
-# demo-repo
-Intro to Github
-Hello I'm Malvika
+# Static Page Light
+Used HTML, CSS and JS to make this static page.
 
 ## Subheader
 
-Watch Tutorials to learn More
+Beginners project
